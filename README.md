@@ -184,17 +184,6 @@ Future Enhancements
 - Machine Learning Model Recommendations
 
 
-
-Installation
-
-Clone Repository
-
-git clone https://github.com/yourusername/DataCleanSight.git
-
-Navigate to Project Folder
-
-cd DataCleanSight
-
 Install Dependencies
 
 pip install -r requirements.txt
