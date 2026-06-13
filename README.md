@@ -211,3 +211,27 @@ SASTRA Deemed University
 License
 
 This project is developed for educational, research, and learning purposes.
+
+
+## Project Screenshots
+
+### Home Page
+![Home](screenshots/homepage.png)
+
+### Data Cleaning
+![Data Cleaning](screenshots/data%20cleaning.png)
+
+### Cleaning Output
+![Cleaning Output](screenshots/cleaning%20output.png)
+
+### EDA
+![EDA](screenshots/EDA.png)
+
+### EDA Output
+![EDA Output](screenshots/EDA%20output.png)
+
+### Visualization Page
+![Visualization Page](screenshots/Visualization%20page.png)
+
+### Visualization Output
+![Visualization Output](screenshots/Visualization%20output.png)
